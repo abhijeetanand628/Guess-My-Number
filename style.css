@@ -3,6 +3,7 @@
   color: white;
   margin: 0;
   padding: 0;
+  font-size: 25px;
 }
 
 body {
@@ -11,7 +12,7 @@ body {
 
 h1 {
   text-align: center;
-  font: 65px, sans-serif;
+  font: 45px, sans-serif;
   margin-top: 30px;
 }
 
